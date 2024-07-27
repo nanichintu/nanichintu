@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sravankumar5900@gmail.com,7893232655**
 
-- 📄 Front end developer & manual testing [I had some Potentially experience](I had some Potentially experience)
+- 📄 Front end developer & manual testing I had some Potentially experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
