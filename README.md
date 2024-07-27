@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **java automation tools**
 
-- 👯 I’m looking to collaborate on [front end developer & manual testing](https://roaring-belekoy-8b6c48.netlify.app/)
+- 👯 I’m looking to collaborate on front-end developer & manual testing
 
-- 👨‍💻 All of my projects are available at [https://creativity-website.netlify.app/](https://creativity-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://creativity-website.netlify.app/]
 
 - 💬 Ask me about **Hi, I'm Sravankumar — a dedicated and enthusiastic Front-End Developer with a strong background in creating responsive, user-friendly web applications. With a skill set that spans HTML, CSS, JavaScript, React.js, and various other technologies, I strive to build beautiful and functional digital experiences. 🔧 Skills & Tools: I am proficient in HTML, CSS, JavaScript, React.js, Bootstrap, and Material-UI for front-end development. On the back-end, I have experience with SQL Server and MySQL. I also have expertise in JSON and API Integration, and I’m well-versed in JIRA, Apache JMeter, and Manual Testing with a solid understanding of Agile Methodology. 🌟 Passionate About: I am passionate about leveraging the latest technologies to solve complex problems and deliver high-quality solutions. My goal is to continually learn and grow in the field of web development while contributing to meaningful projects. 📈 Current Focus: I’m currently focused on expanding my skills in modern front-end frameworks and exploring new technologies to enhance my development toolkit. 💬 Let’s Connect: I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me via LinkedIn or Email to discuss tech, projects, or potential collaborations!**
 
