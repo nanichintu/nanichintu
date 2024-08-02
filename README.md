@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Myself sravankumar<br>👀 I’m currently looking for manual testing Api testing   intern position am familiar with javascript java  <br>🌱 I’m learning JMeter and BlazeMeter selenium <br>📫 call me on 7893232655 or drop a note at sravankumar5900@gmail.com
+👋 Hi, Myself sravankumar<br>👀 I’m currently looking frontend development & manual testing Api testing   intern position am familiar with javascript java  <br>🌱 I’m learning JMeter and BlazeMeter selenium <br>📫 call me on 7893232655 or drop a note at sravankumar5900@gmail.com
 
 
 ## 🌐 Socials:
