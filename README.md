@@ -27,10 +27,10 @@ I love connecting with fellow developers and tech enthusiasts. Feel free to reac
 Check out some of my projects:
 
 - **[E-commerce](https://gilded-chebakia-5ba6a7.netlify.app/)**: A web application with functionality for searching and filtering products. Users can search for items and use checkboxes to filter results by price and category, such as plants, shirts, and loafers.
-  Key Features:
-search functionality: Users can search products in the input field.
-category products: Users can click the check box of category products example: loafers, Indoor plants, Shirts, Sneakers.
-Price: Users can click the checkbox according to price low to high.
+ - **Key Features:**
+1. search functionality: Users can search products in the input field.
+2. category products: Users can click the check box of category products example: loafers, Indoor plants, Shirts, Sneakers.
+3. Price: Users can click the checkbox according to price low to high.
 - **[FetchAPI](https://roaring-belekoy-8b6c48.netlify.app/)**: This project involves integrating API functionality into a user interface (UI) to handle deleted items or features. The goal is to provide users with an intuitive way to interact with deleted data through the UI, ensuring that deleted items can be managed effectively.
 - **[Todo List](https://adding-element-table.netlify.app/)**: This project involves developing a To-Do List application that allows users to manage their tasks efficiently. The application provides essential functionalities such as adding new tasks, editing existing ones, updating task details, and deleting tasks. The goal is to create a user-friendly interface where users can easily keep track of their tasks and maintain an organized list.
   - **Key Features:**
