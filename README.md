@@ -27,16 +27,21 @@ I love connecting with fellow developers and tech enthusiasts. Feel free to reac
 Check out some of my projects:
 
 - **[E-commerce](https://gilded-chebakia-5ba6a7.netlify.app/)**: A web application with functionality for searching and filtering products. Users can search for items and use checkboxes to filter results by price and category, such as plants, shirts, and loafers.
- - **Key Features:**
-   1. search functionality: Users can search products in the input field.
-   2. category products: Users can click the check box of category products example: loafers, Indoor plants, Shirts, Sneakers.
-   3. Price: Users can click the checkbox according to price low to high.
-- **[FetchAPI](https://roaring-belekoy-8b6c48.netlify.app/)**: This project involves integrating API functionality into a user interface (UI) to handle deleted items or features. The goal is to provide users with an intuitive way to interact with deleted data through the UI, ensuring that deleted items can be managed effectively.
-- **[Todo List](https://adding-element-table.netlify.app/)**: This project involves developing a To-Do List application that allows users to manage their tasks efficiently. The application provides essential functionalities such as adding new tasks, editing existing ones, updating task details, and deleting tasks. The goal is to create a user-friendly interface where users can easily keep track of their tasks and maintain an organized list.
   - **Key Features:**
-    1. Add Tasks: Users can add new tasks to their to-do list.
-    2. Edit Tasks: Users can edit the details of an existing task.
-    3. Update Tasks: Users can update the status or details of a task.
-    4. Delete Tasks: Users can delete tasks from their list.
+    1. **Search Functionality**: Users can search for products using the input field.
+    2. **Category Filters**: Users can select checkboxes to filter products by category, such as loafers, indoor plants, shirts, and sneakers.
+    3. **Price Filters**: Users can filter products by price range using checkboxes for low to high pricing.
+
+- **[FetchAPI](https://roaring-belekoy-8b6c48.netlify.app/)**: This project integrates API functionality into a user interface (UI) to manage deleted items or features. The goal is to provide users with an intuitive way to interact with deleted data through the UI, ensuring effective management of removed items.
+  - **Key Features:**
+    1. **Delete Functionality**: Users can easily delete data by clicking the delete icon in the corresponding row.
+
+- **[Todo List](https://adding-element-table.netlify.app/)**: This project is a To-Do List application that allows users to manage their tasks efficiently. It includes features for adding, editing, updating, and deleting tasks, aiming to create a user-friendly interface for task management.
+  - **Key Features:**
+    1. **Add Tasks**: Users can add new tasks to their to-do list.
+    2. **Edit Tasks**: Users can modify the details of existing tasks.
+    3. **Update Tasks**: Users can update task status or details.
+    4. **Delete Tasks**: Users can remove tasks from their list.
+
 
 Thank you for visiting my profile!
