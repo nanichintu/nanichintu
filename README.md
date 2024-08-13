@@ -38,10 +38,10 @@ Check out some of my projects:
 
 - **[Todo List](https://adding-element-table.netlify.app/)**: This project is a To-Do List application that allows users to manage their tasks efficiently. It includes features for adding, editing, updating, and deleting tasks, aiming to create a user-friendly interface for task management.
   - **Key Features:**
-    1. **Add Tasks**: Users can add new tasks to their to-do list.
-    2. **Edit Tasks**: Users can modify the details of existing tasks.
-    3. **Update Tasks**: Users can update task status or details.
-    4. **Delete Tasks**: Users can remove tasks from their list.
+    1. **Add Todo**: Users can add new tasks to their to-do list.
+    2. **Edit Todo**: Users can modify the details of existing tasks.
+    3. **Update Todo**: Users can update task status or details.
+    4. **Delete Todo**: Users can remove tasks from their list.
 
 
 Thank you for visiting my profile!
