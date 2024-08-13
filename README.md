@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic UI Developer wit
 
 ## 🚀 Skills & Technologies
 
-- **HTML**: Crafting semantic and accessible web structures.
-- **CSS**: Designing responsive and visually appealing layouts.
-- **JavaScript**: Building dynamic and interactive web functionalities.
-- **React.js**: Developing modern and scalable web applications.
-- **Material-UI (MUI)**: Implementing beautiful and functional UI components.
+- **HTML** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white): Crafting semantic and accessible web structures.
+- **CSS** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white): Designing responsive and visually appealing layouts.
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black): Building dynamic and interactive web functionalities.
+- **React.js** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black): Developing modern and scalable web applications.
+- **Material-UI (MUI)** ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white): Implementing beautiful and functional UI components.
 
 ## 🌟 What I’m Passionate About
 
