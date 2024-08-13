@@ -16,19 +16,23 @@ I am passionate about leveraging the latest technologies to solve complex proble
 
 ## 📈 Current Focus
 
-Currently, I’m focused on expanding my skills in modern front-end frameworks and exploring new technologies to further enhance my development toolkit.
+I’m focused on expanding my skills in modern front-end frameworks and exploring new technologies to enhance my development toolkit further.
 
-## 💬 Let’s Connect
+## 💬 Reach Out   
 
-I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sravankumar) or via [Email](mailto:your-email@example.com) to discuss tech, projects, or potential collaborations!
+I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sravand1/) or via [Email](mailto:sravankumar5900@gmail.com). You can also contact me at **789-323-2655** to discuss tech, projects, or potential collaborations!
 
 ## 📂 Projects
 
 Check out some of my projects:
 
-- [Project 1](link-to-project-1): A brief description of the project.
-- [Project 2](link-to-project-2): A brief description of the project.
-- [Project 3](link-to-project-3): A brief description of the project.
+- **[E-commerce](https://gilded-chebakia-5ba6a7.netlify.app/)**: A web application with functionality for searching and filtering products. Users can search for items and use checkboxes to filter results by price and category, such as plants, shirts, and loafers.
+- **[FetchAPI](https://roaring-belekoy-8b6c48.netlify.app/)**: This project involves integrating API functionality into a user interface (UI) to handle deleted items or features. The goal is to provide users with an intuitive way to interact with deleted data through the UI, ensuring that deleted items can be managed effectively.
+- **[Todo List](https://adding-element-table.netlify.app/)**: This project involves developing a To-Do List application that allows users to manage their tasks efficiently. The application provides essential functionalities such as adding new tasks, editing existing ones, updating task details, and deleting tasks. The goal is to create a user-friendly interface where users can easily keep track of their tasks and maintain an organized list.
+  - **Key Features:**
+    1. Add Tasks: Users can add new tasks to their to-do list.
+    2. Edit Tasks: Users can edit the details of an existing task.
+    3. Update Tasks: Users can update the status or details of a task.
+    4. Delete Tasks: Users can delete tasks from their list.
 
 Thank you for visiting my profile!
-
