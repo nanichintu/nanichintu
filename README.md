@@ -9,8 +9,10 @@ Welcome to my GitHub profile! I’m a passionate UI Developer focused on craftin
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black): Building dynamic and interactive web functionalities.
 - **React.js** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black): Developing modern and scalable web applications.
 - **Material-UI (MUI)** ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white): Implementing beautiful and functional UI components.
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white): Building responsive and mobile-first web designs.
 - **Jira** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white): Managing project tasks and workflows.
 - **SQL** ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white): Managing and querying databases.
+
 
 
 ## 🌟 What I’m Passionate About
