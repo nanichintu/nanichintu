@@ -25,7 +25,7 @@ I’m focused on expanding my skills in modern front-end frameworks and explorin
 
 ## 💬 Reach Out   
 
-I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sravand1/) or via [Email](mailto:sravankumar5900@gmail.com). You can also contact me at **789-323-2655** to discuss tech, projects, or potential collaborations!
+I love geeking out with fellow developers and tech enthusiasts! Whether you're looking to chat about the latest tech trends, brainstorm project ideas, or explore potential collaborations, I'm all ears. Feel free to drop me a message on LinkedIn or shoot me an email. If you prefer the old-school method, give me a call at 789-323-2655—let's turn caffeine into code together! 🚀
 
 ## 📂 Projects
 
