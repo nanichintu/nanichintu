@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate UI Developer focused on craftin
 
 ## 🌟 What I’m Passionate About
 
-I am passionate about leveraging the latest technologies to solve complex problems and deliver high-quality UI solutions. I focus on building intuitive and visually engaging web experiences that enhance user satisfaction.
+I leverage the latest technologies to solve complex problems and deliver high-quality UI solutions, focusing on building intuitive and visually engaging web experiences that boost user satisfaction.
 
 ## 📈 Current Focus
 
