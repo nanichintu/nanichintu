@@ -21,7 +21,7 @@ I am passionate about leveraging the latest technologies to solve complex proble
 
 ## 📈 Current Focus
 
-I’m focused on expanding my skills in modern front-end frameworks and exploring new technologies to enhance my development toolkit further.
+I am dedicated to expanding my expertise in modern front-end frameworks and continuously exploring new technologies to enhance my development toolkit.
 
 ## 💬 Reach Out   
 
