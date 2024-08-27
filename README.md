@@ -12,6 +12,10 @@ Welcome to my GitHub profile! I’m a passionate UI Developer focused on craftin
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white): Building responsive and mobile-first web designs.
 - **Jira** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white): Managing project tasks and workflows.
 - **SQL** ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white): Managing and querying databases.
+- Manual Testing
+: Ensuring software quality through meticulous testing processes.
+- Apache JMeter
+: Conducting performance and load testing on web applications.
 
 
 
