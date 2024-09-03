@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I’m a passionate UI Developer focused on crafting dynamic and user-centered web interfaces. With experience across various front-end technologies, I’m committed to continuous learning and improving my skills in the ever-evolving world of web development.
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
 ## 🚀 Skills & Technologies
 
 - **HTML** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white): Crafting semantic and accessible web structures.
@@ -27,7 +30,7 @@ I am dedicated to expanding my expertise in modern front-end frameworks and cont
 
 ## 💬 Reach Out   
 
-I love geeking out with fellow developers and tech enthusiasts! Whether you're looking to chat about the latest tech trends, brainstorm project ideas, or explore potential collaborations, I'm all ears. Feel free to drop me a message on LinkedIn or shoot me an email. If you prefer the old-school method, give me a call at 789-323-2655—let's turn caffeine into code together! 🚀
+I love geeking out with fellow developers and tech enthusiasts! I'm all ears if you want to chat about the latest tech trends, brainstorm project ideas, or explore potential collaborations. Feel free to drop me a message on LinkedIn or email me. If you prefer the old-school method, call me at 789-323-2655—let's turn caffeine into code together! 🚀
 
 ## 📂 Projects
 
