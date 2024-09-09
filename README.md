@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I’m a passionate UI Developer focused on craftin
 - **SQL** ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white): Managing and querying databases.
 - **Manual Testing** ![Testing](https://img.shields.io/badge/Manual_Testing-4CAF50?style=flat&logo=testing-library&logoColor=white): Ensuring software quality through meticulous testing processes.
 - **Apache JMeter** ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white): Conducting performance and load testing on web applications.
+- - **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white): API testing, ensuring proper request-response flow and validating endpoints.
 
 
 
