@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate UI Developer focused on crafting dynamic and user-centered web interfaces. With experience across various front-end technologies, I’m committed to continuous learning and improving my skills in the ever-evolving world of web development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
 
 ## 🚀 Skills & Technologies
